@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView_WisataJogja</string>
+    <string name="wisata_name">Nama Wisata</string>
+    <string name="description">Description</string>
+</resources>
